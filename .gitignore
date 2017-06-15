@@ -10,3 +10,5 @@ bin/*
 *.FileListAbsolute.txt
 GlacusTravelAgent/Backup/
 GlacusTravelAgent/.vs/config/applicationhost.config
+obj/Debug/*
+packages/*
