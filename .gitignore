@@ -1,0 +1,12 @@
+*.dll
+*.suo
+*.user
+*.pdb
+GlacusTravelAgent/packages/*
+bin/*
+*.mdf
+*.ldf
+*.cache
+*.FileListAbsolute.txt
+GlacusTravelAgent/Backup/
+GlacusTravelAgent/.vs/config/applicationhost.config
